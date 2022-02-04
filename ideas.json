@@ -1,0 +1,17 @@
+[
+  {
+    "descripcion": "string",
+    "autor": "string",
+    "id": 1
+  },
+  {
+    "descripcion": "string",
+    "autor": "string",
+    "id": 2
+  },
+  {
+    "descripcion": "string",
+    "autor": "string",
+    "id": 3
+  }
+]
